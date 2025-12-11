@@ -1,4 +1,0 @@
-whoami > whoami.txt
-ps | tail -n +2 > ps.txt
-wc -c ps.txto
-
